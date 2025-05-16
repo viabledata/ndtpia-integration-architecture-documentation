@@ -80,7 +80,6 @@ cd ..
 git clone https://github.com/National-Digital-Twin/jwt-servlet-auth
 cd jwt-servlet-auth
 mvn clean install
-cd ..
 ```
 
 #### secure-agents-lib
